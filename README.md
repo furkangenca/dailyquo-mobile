@@ -1,50 +1,26 @@
-# Welcome to my App
+# DailyQuo
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+DailyQuo, React Native ve Firebase kullanılarak geliştirilen bir mobil uygulamadır. Bu uygulama, kullanıcılara günlük olarak yeni bir alıntı sunmayı amaçlar. Ancak, veritabanı genişledikçe, kullanıcıların yazar zevklerine veya sevdikleri bir kitaptan alıntılar arasında gezinmelerine olanak sağlar. Ayrıca, farklı yazarları keşfetmelerini sağlayan bir keşfet sayfası da bulunmaktadır.
 
-## Get started
+## Özellikler
 
-1. Install dependencies
+- **Günlük Alıntılar**: Kullanıcılara her gün yeni bir alıntı sunar.
+- **Arama Fonksiyonu**: Kullanıcılar, yazar veya kitap adına göre alıntıları arayabilir.
+- **Favorilere Ekleme**: Beğendikleri alıntıları favorilere ekleyebilir ve daha sonra kolayca erişebilirler.
+- **Keşfet Sayfası**: Kullanıcılar, farklı yazarları ve kitapları keşfetmek için özel bir keşfet sayfasını kullanabilirler.
+- **Kullanıcı Profili**: Kullanıcılar, kendi profillerini düzenleyebilir ve favorilere ekledikleri alıntıları görebilirler.
 
-   ```bash
-   npm install
-   ```
+## Kullanılan Teknolojiler
 
-2. Start the app
+- React Native: Mobil uygulama geliştirmek için kullanılan açık kaynaklı bir framework.
+- Firebase: Kullanıcı kimlik doğrulaması, veritabanı yönetimi ve dosya depolama gibi sunulan bir dizi bulut tabanlı hizmeti içeren Google'ın platformudur.
 
-   ```bash
-    npx expo start
-   ```
+## Kullanım
 
-In the output, you'll find options to open the app in a
+1. Uygulamayı indirin ve kurun.
+2. Kaydolun veya giriş yapın.
+3. Ana ekranda günlük alıntıları görüntüleyin.
+4. Arama ekranına geçerek belirli bir yazar veya kitap adına göre alıntıları aratın.
+5. Beğendiğiniz alıntıları favorilerinizde saklayın.
+6. Keşfet sayfasında popülariteye ve geçtiği zamana göre yeni yazarlar ve alıntılar keşfedin.
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
