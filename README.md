@@ -13,7 +13,9 @@ DailyQuo, React Native ve Firebase kullanılarak geliştirilen bir mobil uygulam
 ## Kullanılan Teknolojiler
 
 - **React Native**: Mobil uygulama geliştirmek için kullanılan açık kaynaklı bir framework.
+- **Expo**: React Native uygulamaları geliştirmeyi ve çalıştırmayı kolaylaştıran bir araç seti.
 - **Firebase**: Kullanıcı kimlik doğrulaması, veritabanı yönetimi ve dosya depolama gibi sunulan bir dizi bulut tabanlı hizmeti içeren Google'ın platformudur.
+- **Visual Studio Code:** Geliştirme ortamı.
 
 ## Kullanım
 
