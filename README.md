@@ -26,9 +26,6 @@ DailyQuo, React Native ve Firebase kullanılarak geliştirilen bir mobil uygulam
 5. Beğendiğiniz alıntıları favorilerinizde saklayın.
 6. Keşfet sayfasında popülariteye ve geçtiği zamana göre yeni yazarlar ve alıntılar keşfedin.
 
-## Projeyi İndirirken
-
-Kök dizininde bir firebase.js dosyası tanımlayıp kendi api keyinizi entegre etmeniz gerekiyor.
 
 ## Tasarımlar
 ### **Giriş ve Kayıt Olma Ekranları**
