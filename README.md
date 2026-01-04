@@ -70,3 +70,9 @@ Use Expo Go app on your device to scan the QR and launch the app.
 
 **Furkan Gença**  
 [@furkangenca](https://github.com/furkangenca)
+
+---
+
+## 📄 License
+
+Licensed under the MIT License. You may use, modify, and distribute this project under its terms.
