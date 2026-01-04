@@ -49,14 +49,6 @@ The project focuses on mobile application architecture, user authentication, and
 
 ---
 
-## What I Learned
-- Building scalable mobile applications with React Native
-- Integrating cloud-based authentication and data storage
-- Designing user-centric mobile workflows
-- Managing application state and navigation in mobile apps
-
----
-
 ## Setup
 1. Clone the repository
 2. Install dependencies
